@@ -1,0 +1,130 @@
+[
+    {
+        "id": "1",
+        "name": "Spider-Man: Into the Web",
+        "title": "The Untold Stories of Spider-Man",
+        "price": 20,
+        "category": "Paid",
+        "image": "https://c4.wallpaperflare.com/wallpaper/107/848/913/spiderman-ps4-spiderman-games-hd-wallpaper-preview.jpg"
+    },
+    {
+        "id": "2",
+        "name": "Avengers: The Final Battle",
+        "title": "Assemble for the Endgame",
+        "price": 25,
+        "category": "Paid",
+        "image": "https://c4.wallpaperflare.com/wallpaper/396/134/507/the-avengers-iron-man-captain-america-thor-wallpaper-preview.jpg"
+    },
+    {
+        "id": "3",
+        "name": "X-Men: Rise of the Mutants",
+        "title": "The New Era of Mutants",
+        "price": 30,
+        "category": "Free",
+        "image": "https://c4.wallpaperflare.com/wallpaper/1006/202/528/action-adventure-comics-fantasy-wallpaper-preview.jpg"
+    },
+    {
+        "id": "4",
+        "name": "Thor: God of Thunder",
+        "title": "Legends of Asgard",
+        "price": 28,
+        "category": "Paid",
+        "image": "https://c4.wallpaperflare.com/wallpaper/731/574/513/movie-thor-ragnarok-thor-wallpaper-preview.jpg"
+    },
+    {
+        "id": "5",
+        "name": "Black Panther: Kingdom of Wakanda",
+        "title": "The Legacy of T'Challa",
+        "price": 35,
+        "category": "Paid",
+        "image": "https://c4.wallpaperflare.com/wallpaper/812/845/295/scarlett-johansson-infinity-vision-hulk-wallpaper-preview.jpg"
+    },
+    {
+        "id": "6",
+        "name": "Doctor Strange: The Sorcerer Supreme",
+        "title": "Mystical Arts of the Marvel Universe",
+        "price": 22,
+        "category": "Paid",
+        "image": "https://c4.wallpaperflare.com/wallpaper/365/584/63/movie-doctor-strange-benedict-cumberbatch-marvel-comics-wallpaper-preview.jpg"
+    },
+    {
+        "id": "7",
+        "name": "Guardians of the Galaxy: Cosmic Adventures",
+        "title": "A Journey Through the Stars",
+        "price": 27,
+        "category": "Free",
+        "image": "https://c4.wallpaperflare.com/wallpaper/841/922/372/guardians-of-the-galaxy-vol-2-star-lord-gamora-rocket-raccoon-wallpaper-preview.jpg"
+    },
+    {
+        "id": "8",
+        "name": "Iron Man: The Armored Avenger",
+        "title": "Tech and Tenacity",
+        "price": 32,
+        "category": "Paid",
+        "image": "https://c4.wallpaperflare.com/wallpaper/776/3/687/scarlett-johansson-infinity-vision-hulk-wallpaper-preview.jpg"
+    },
+    {
+        "id": "9",
+        "name": "Wolverine: The Best There Is",
+        "title": "A Journey Through the X-Men's Heart",
+        "price": 29,
+        "category": "Paid",
+        "image": "https://c4.wallpaperflare.com/wallpaper/13/489/230/hugh-jackman-wolverine-marvel-comics-wallpaper-preview.jpg"
+    },
+    {
+        "id": "10",
+        "name": "Captain America: The Sentinel of Liberty",
+        "title": "A Shield's Legacy",
+        "price": 31,
+        "category": "Paid",
+        "image": "https://wallpapercave.com/wp/wp1808933.jpg"
+    },
+    {
+        "id": "11",
+        "name": "Deadpool: The Anti-Hero Chronicles",
+        "title": "Uncensored Adventures",
+        "price": 23,
+        "category": "Paid",
+        "image": "https://c4.wallpaperflare.com/wallpaper/438/435/784/deadpool-love-movies-wallpaper-preview.jpg"
+    },
+    {
+        "id": "12",
+        "name": "Captain Marvel: Cosmic Protector",
+        "title": "Higher, Further, Faster",
+        "price": 30,
+        "category": "Free",
+        "image": "https://images2.alphacoders.com/978/thumb-1920-978754.jpg"
+    },
+    {
+        "id": "13",
+        "name": "Moon Knight: Shadows of the Night",
+        "title": "The Fist of Khonshu",
+        "price": 26,
+        "category": "Free",
+        "image": "https://c4.wallpaperflare.com/wallpaper/510/553/319/comics-moon-knight-wallpaper-preview.jpg"
+    },
+    {
+        "id": "14",
+        "name": "The Punisher: War Journal",
+        "title": "The Battle Against Crime",
+        "price": 29,
+        "category": "Paid",
+        "image": "https://c4.wallpaperflare.com/wallpaper/656/270/365/marvel-cinematic-universe-the-punisher-netflix-jon-bernthal-wallpaper-preview.jpg"
+    },
+    {
+        "id": "15",
+        "name": "Ghost Rider: Hell on Wheels",
+        "title": "The Spirit of Vengeance",
+        "price": 24,
+        "category": "Paid",
+        "image": "https://c4.wallpaperflare.com/wallpaper/222/410/453/comics-ghost-rider-bike-chain-fire-hd-wallpaper-preview.jpg"
+    },
+    {
+        "id": "16",
+        "name": "Hulk: The Incredible Strength",
+        "title": "Unleash the Rage",
+        "price": 30,
+        "category": "Paid",
+        "image": "https://c4.wallpaperflare.com/wallpaper/383/798/480/hulk-wallpaper-preview.jpg"
+    }
+]
