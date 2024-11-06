@@ -29,7 +29,7 @@ function Contact() {
         setStatus(result.message || "Failed to send message.");
       }
     } catch (error) {
-      setStatus("Message Sent");
+      setStatus("Message Failed");
     }
   };
 
